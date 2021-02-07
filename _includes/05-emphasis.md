@@ -2,5 +2,5 @@
 
 * Coding
   * __Hybrid Cloud Engineer__
-  * VFP developer
+  * VFP developer :smile:
   * Git _familiarity_
